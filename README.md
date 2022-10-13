@@ -6,7 +6,7 @@ This project was a 'guided project' as part of learning data analytics with [Dat
 
 ## Results
 
-To display the result, simply [click the .ipynb file](https://github.com/jasperquak/winning_jeopardy/blob/main/BuildingSpamFilterNaiveBayes.ipynb) in this repository. It will open in a Notebook viewer.
+To display the result, simply [click the .ipynb file](https://github.com/jasperquak/building_spam_filter_naive_bayes/blob/main/BuildingSpamFilterNaiveBayes.ipynb) in this repository. It will open in a Notebook viewer.
 
 ## Reproduction
 
