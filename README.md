@@ -1,6 +1,6 @@
 # Building a spam filter with Naive Bayes
 
-In this project, I develop an algorithm that is able to classify SMS messages as "spam" or "not-spam". We'll train the algorithm by offering it a collection of SMS messages that have been classified by humans as spam or not-spam. After this training, the algorithm will be able to classify new messages based on what it saw before, using Naive Bayes.
+In this project, an algorithm that is able to classify SMS messages as "spam" or "not-spam" is developed. We'll train the algorithm by offering it a collection of SMS messages that have been classified by humans as spam or not-spam. After this training, the algorithm will be able to classify new messages based on what it saw before, using Naive Bayes.
 
 This project was a 'guided project' as part of learning data analytics with [Dataquest](https://www.dataquest.io).
 
