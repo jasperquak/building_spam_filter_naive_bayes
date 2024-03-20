@@ -1,6 +1,6 @@
 # Building a spam filter with Naive Bayes
 
-[go straightaway to the results]((https://github.com/jasperquak/building_spam_filter_naive_bayes/blob/main/BuildingSpamFilterNaiveBayes.ipynb)
+[go straightaway to the results](https://github.com/jasperquak/building_spam_filter_naive_bayes/blob/main/BuildingSpamFilterNaiveBayes.ipynb)
 
 In this project, an algorithm that is able to classify SMS messages as "spam" or "not-spam" is developed. We'll train the algorithm by offering it a collection of SMS messages that have been classified by humans as spam or not-spam. After this training, the algorithm will be able to classify new messages based on what it saw before, using Naive Bayes.
 
